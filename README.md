@@ -46,7 +46,7 @@ The US analysis is observational and uses a Day-3 administrative landmark. The 9
 
 The submission-ready statement is provided in [`CODE_AND_DATA_AVAILABILITY.md`](CODE_AND_DATA_AVAILABILITY.md). A source-by-source access matrix is provided in [`DATA_AVAILABILITY.md`](DATA_AVAILABILITY.md).
 
-Repository-authored code is released under the [MIT License](LICENSE). The MIT License does not grant rights to restricted or third-party data and does not supersede HCUP, DATASUS, CNES, IBGE, OSRM, journal, or institutional terms.
+Repository-authored code is released under the [MIT License](LICENSE). The [third-party notice](THIRD_PARTY_NOTICE.md) explains the data and publication materials that are not covered by that software licence.
 
 ## Citation
 
