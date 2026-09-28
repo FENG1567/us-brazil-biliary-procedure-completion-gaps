@@ -1,0 +1,21 @@
+table,cohort,metric,value,lower,upper,notes
+Table1,acute_cholecystitis,day3_N,233764,,,Day-3 risk set
+Table1,acute_cholecystitis,completed_N,175651,,,Recorded completion by Day 3
+Table1,acute_cholecystitis,completion_pct,75.1,,,Percent of Day-3 risk set
+Table1,choledocholithiasis,day3_N,117293,,,Day-3 risk set
+Table1,choledocholithiasis,completed_N,57659,,,Recorded duct-directed proxy by Day 3
+Table1,choledocholithiasis,completion_pct,49.2,,,Percent of Day-3 risk set
+Table2,acute_cholecystitis,return_pct_completed,1.444,,,First observed biliary-related inpatient return by 90 days
+Table2,acute_cholecystitis,return_pct_not_completed,12.650,,,First observed biliary-related inpatient return by 90 days
+Table2,acute_cholecystitis,difference_percentage_points,-11.206,-11.519,-10.909,95% bootstrap interval
+Table2,choledocholithiasis,return_pct_completed,4.512,,,First observed biliary-related inpatient return by 90 days
+Table2,choledocholithiasis,return_pct_not_completed,7.524,,,First observed biliary-related inpatient return by 90 days
+Table2,choledocholithiasis,difference_percentage_points,-3.012,-3.297,-2.735,95% bootstrap interval
+Table3,acute_cholecystitis,hospital_year_completion_p10,62.637,,,Risk-standardized P10
+Table3,acute_cholecystitis,hospital_year_completion_p90,84.735,,,Risk-standardized P90
+Table3,acute_cholecystitis,associated_new_completions_100pct,23265,,,Association scenario, not causal count
+Table3,acute_cholecystitis,associated_biliary_returns_100pct,2608,,,Association scenario, not causal count
+Table4,acute_cholecystitis,road_gt240_vs_le60_difference,-0.346,-0.792,0.101,Percentage points; model-standardized association
+Table4,acute_cholecystitis,combined_scenario_difference,0.078,0.009,0.147,Percentage points; capacity-constrained association scenario
+Table4,choledocholithiasis,road_gt240_vs_le60_difference,0.098,-0.010,0.196,Percentage points; model-standardized association
+Table4,choledocholithiasis,combined_scenario_difference,0.010,-0.051,0.071,Percentage points; capacity-constrained association scenario

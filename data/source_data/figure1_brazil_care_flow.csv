@@ -1,0 +1,4 @@
+"cohort","care_flow_category","n","completion","local_capability","destination_capability"
+"acute_cholecystitis","Interstate",3339,0.673854447439353,0.353099730458221,0.866726564839772
+"acute_cholecystitis","Same municipality",272319,0.650755180505216,0.852522225771981,0.816270623790481
+"acute_cholecystitis","External, same state",127818,0.782847486269539,0.209039415418799,0.907931590229858

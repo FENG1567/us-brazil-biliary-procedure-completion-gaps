@@ -1,0 +1,3 @@
+cohort,us_day3_n,us_completed_n,us_completion_pct,us_90d_return_completed_pct,us_90d_return_not_completed_pct,us_difference_percentage_points,us_difference_lcl_percentage_points,us_difference_ucl_percentage_points,pancreatitis_n,pancreatitis_completion_pct,nonpancreatitis_completion_pct,interaction_log_odds,interaction_lcl,interaction_ucl,interaction_p
+acute_cholecystitis,233764,175651,75.1,1.444,12.650,-11.206,-11.519,-10.909,15779,69.533,75.661,0.804,0.596,1.012,3.69e-14
+choledocholithiasis,117293,57659,49.2,4.512,7.524,-3.012,-3.297,-2.735,14507,51.294,48.796,0.024,-0.160,0.207,0.800

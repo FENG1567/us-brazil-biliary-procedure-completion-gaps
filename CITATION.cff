@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Multilevel Gaps in Recorded Biliary Procedure Completion: US–Brazil Analysis"
+message: "Please cite the associated manuscript and this repository release."
+type: software
+version: "1.0.0"
+date-released: "2026-09-29"
+repository-code: "https://github.com/FENG1567/us-brazil-biliary-procedure-completion-gaps"
+license: MIT
+authors:
+  - family-names: Feng
+    given-names: Shuo
+  - family-names: Shi
+    given-names: Chao
+  - family-names: Liu
+    given-names: Tianming
+  - family-names: Ding
+    given-names: Haoran
+  - family-names: Hang
+    given-names: Fenghe
+  - family-names: Huang
+    given-names: Zhenghao
+  - family-names: Liu
+    given-names: Liwei
+keywords:
+  - acute cholecystitis
+  - choledocholithiasis
+  - biliary pancreatitis
+  - National Readmissions Database
+  - SIH-SUS

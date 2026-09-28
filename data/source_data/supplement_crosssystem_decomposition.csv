@@ -1,0 +1,9 @@
+"database","cohort","estimand","estimate","lcl","ucl","bootstrap_replicates","interpretation","label"
+"NRD_vs_SIH-SUS","Acute cholecystitis","standardized_us",0.86054712990481,0.857706237177922,0.86353558560626,500,"common_overlap_standardization_not_pure_causal_system_effect","US"
+"NRD_vs_SIH-SUS","Acute cholecystitis","standardized_brazil",0.667959274271881,0.657167629084874,0.678707580411418,500,"common_overlap_standardization_not_pure_causal_system_effect","Brazil"
+"NRD_vs_SIH-SUS","Acute cholecystitis","residual_system_gap",0.192587855632928,0.182138425147927,0.205047474214133,500,"common_overlap_standardization_not_pure_causal_system_effect","Bounded
+difference"
+"NRD_vs_SIH-SUS","Choledocholithiasis","standardized_us",0.482031010868415,0.472995436759531,0.490943221945037,500,"common_overlap_standardization_not_pure_causal_system_effect","US"
+"NRD_vs_SIH-SUS","Choledocholithiasis","standardized_brazil",0.138465783308143,0.116944606021997,0.165088693164102,500,"common_overlap_standardization_not_pure_causal_system_effect","Brazil"
+"NRD_vs_SIH-SUS","Choledocholithiasis","residual_system_gap",0.343565227560272,0.316114631067281,0.368161785587768,500,"common_overlap_standardization_not_pure_causal_system_effect","Bounded
+difference"

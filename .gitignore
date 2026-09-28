@@ -1,0 +1,22 @@
+# Restricted or local data
+*.parquet
+*.sas7bdat
+*.csv.gz
+*.zip
+raw_data/
+restricted_data/
+data/source_data/figure3_hospital_year_risk_standardized_rates.csv
+data/source_data/figure3_hospital_year_pairs.csv
+
+# Credentials
+.env
+*.pem
+*.key
+*password*
+*secret*
+
+# Local outputs and caches
+__pycache__/
+.Rhistory
+.RData
+renv/library/
